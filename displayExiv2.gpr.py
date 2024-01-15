@@ -19,7 +19,7 @@ register(
     gramplet = 'DisplayExiv2',
     navtypes = ['Media'],
     gramplet_title = _("Display Exiv2 metadata"),
-    gramps_target_version = "5.1",
+    gramps_target_version = "5.2",
     help_url = "Addon:Display Exiv2 metadata",
     include_in_listing = True,
     )
